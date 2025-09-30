@@ -12,7 +12,6 @@
 [![Cursor](https://custom-icon-badges.demolab.com/badge/Cursor-000000?logo=cursor-ai-white)](#)
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 
-
 <b><p align="center">
 **I speak these languages:**
 </p></b>  
@@ -21,6 +20,14 @@
 <img alt="Português" width="45" height="618" alt="image" src="https://github.com/user-attachments/assets/1252325d-78aa-4a56-b0fe-62c6d8b6975c" />
 <img alt="English" width="45" height="618" alt="image" src="https://github.com/user-attachments/assets/63e2318b-bcf9-4006-bbbd-24635638c450" />
 </p>
+
+<!--Apresentação-->
+
+Sou José Lemus, um estudante de Análise e Desenvolvimento de Sistemas (Unipar) com uma bagagem de vida internacional. Originário da Venezuela e com experiências em diversos países, essa trajetória multicultural me deu uma adaptabilidade e resiliência valiosas, qualidades essenciais no desenvolvimento de software.
+
+Hoje, dedico-me integralmente a correr atrás da minha paixão: o vasto e dinâmico mundo do Desenvolvimento e da Informática.
+
+Ainda estou pavimentando meu caminho como profissional, mas trago a energia de quem está começando e a determinação de quem já viu o mundo. Estou ativamente buscando oportunidades para integrar o conhecimento acadêmico à prática do mercado, ansioso por contribuir e evoluir neste universo maravilhoso do código.
 
 <b><p align="center">
 **💬 You can contact me here:**
