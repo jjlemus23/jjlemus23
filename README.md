@@ -7,6 +7,11 @@
 </picture>
 
 # You're welcome! <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/cd2126f9-36d3-449b-92d8-361b8741b545" />
+[![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?logo=linuxmint&logoColor=fff)](#)
+[![Google Gemini](https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff)](#)
+[![Cursor](https://custom-icon-badges.demolab.com/badge/Cursor-000000?logo=cursor-ai-white)](#)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+
 
 <b><p align="center">
 **I speak these languages:**
@@ -17,20 +22,19 @@
 <img alt="English" width="45" height="618" alt="image" src="https://github.com/user-attachments/assets/63e2318b-bcf9-4006-bbbd-24635638c450" />
 </p>
 
-[![Cursor](https://custom-icon-badges.demolab.com/badge/Cursor-000000?logo=cursor-ai-white)](#)
-![](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)
-
-### 💬 Do you want to contact me?
-
-We can get in contact on [LinkedIn](https://www.linkedin.com/in/jjlemus23/) or .
-
 <b><p align="center">
-**You can contact me here:**
+**💬 You can contact me here:**
 </p></b>  
+<p align="center">
+<a href="https://www.linkedin.com/in/jjlemus23/"><img width="45" height="618" alt="image" src="https://github.com/user-attachments/assets/aa5b3dea-d48d-48b5-bca8-517d6095c1ba"/></a>
+<a href="https://www.reddit.com/user/Wasaby23/"><img width="45" height="618" alt="image" src="https://github.com/user-attachments/assets/3f921106-b6a6-4927-8c0c-f549987eba7d" /></a>
+<a href="https://www.instagram.com/jjlemus23/"><img width="45" height="618" alt="image" src="https://github.com/user-attachments/assets/a64d416f-3d56-4fda-84b5-50a72aa264cd"/></a>
+<a href="https://mastodon.social/@jjlemus23"><img width="45" height="618" alt="image" src="https://github.com/user-attachments/assets/8ab31bab-63d6-4319-baf8-76df3158fadd" /></a>
+</p>
+<b><p align="center">
+Backup:
+</p></b>
+<p align="center">
+<a href="https://gitlab.com/jjlemus23"><img width="45" height="618" alt="image" src="https://github.com/user-attachments/assets/7478dd6b-de78-4910-b518-114ff9a3d7da" /></a></p>
 
-![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-![](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)
-![](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)
-![](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)
 
- 
