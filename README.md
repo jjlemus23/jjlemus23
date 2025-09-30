@@ -1,6 +1,12 @@
-## Hi there 👋
-![GitHub Stats](https://pixel-profile.vercel.app/api/github-stats?username=jjlemus23&theme=journey&pixelate_avatar=true)
-<source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=jjlemus23&screen_effect=true&dithering=true&pixelate_avatar=true&theme=fuji&theme=fuji&color=%23ffffffFF&hide=issues">
+# Happy you're here! 🎏
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=jjlemus23&screen_effect=true&dithering=true&pixelate_avatar=true&theme=fuji&color=%23ffffffFF&hide=issues">
+
+  <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=jjlemus23&screen_effect=false&dithering=false&pixelate_avatar=true&theme=road_trip&color=%23000000&hide=issues">
+
+  <img src="https://pixel-profile.vercel.app/api/github-stats?username=jjlemus23&screen_effect=true&dithering=true&pixelate_avatar=true&theme=fuji&hide=issues" alt="GitHub Stats do jjlemus23">
+</picture>
 
 <!--
 **jjlemus23/jjlemus23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
