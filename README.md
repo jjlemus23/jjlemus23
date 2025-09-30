@@ -1,4 +1,4 @@
-# Happy you're here! 🎏
+# Glad to have you here!
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=jjlemus23&screen_effect=true&dithering=true&pixelate_avatar=true&theme=fuji&color=%23ffffffFF&hide=issues">
@@ -8,8 +8,11 @@
   <img src="https://pixel-profile.vercel.app/api/github-stats?username=jjlemus23&screen_effect=true&dithering=true&pixelate_avatar=true&theme=fuji&hide=issues" alt="GitHub Stats do jjlemus23">
 </picture>
 
+### 👤 Silhouette of Me:
+
 <!--
 **jjlemus23/jjlemus23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
 Here are some ideas to get you started:
 
@@ -18,7 +21,9 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+### 💬 Do you want to contact me?
+
+We can get in contact on [LinkedIn](https://www.linkedin.com/in/jjlemus23/) or .
