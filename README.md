@@ -1,7 +1,6 @@
 ## Hi there 👋
-
-<!--Replace <username> with your own GitHub username.-->
-https://pixel-profile.vercel.app/api/github-stats?username=<jjlemus23>
+![GitHub Stats](https://pixel-profile.vercel.app/api/github-stats?username=jjlemus23&theme=journey&pixelate_avatar=true)
+<source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=jjlemus23&screen_effect=true&dithering=true&pixelate_avatar=true&theme=fuji&theme=fuji&color=%23ffffffFF&hide=issues">
 
 <!--
 **jjlemus23/jjlemus23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
