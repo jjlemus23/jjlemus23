@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--Replace <username> with your own GitHub username.-->
-https://pixel-profile.vercel.app/api/github-stats?jjlemus23=<username>
+[https://pixel-profile.vercel.app/api/github-stats?jjlemus23=<username>](https://pixel-profile.vercel.app/api/github-stats?username=<username>&theme=journey&pixelate_avatar=false)
 
 <!--
 **jjlemus23/jjlemus23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
