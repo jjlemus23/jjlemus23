@@ -8,9 +8,9 @@
 **I speak these languages:**
 </p></b>  
 <p align="center">
-<img alt="Español" width="45" height="300" alt="image" src="https://github.com/user-attachments/assets/62569522-2c0d-4b91-b490-bf7ec4b832e1" />
-<img alt="Português" width="45" height="300" alt="image" src="https://github.com/user-attachments/assets/1252325d-78aa-4a56-b0fe-62c6d8b6975c" />
-<img alt="English" width="45" height="300" alt="image" src="https://github.com/user-attachments/assets/63e2318b-bcf9-4006-bbbd-24635638c450" />
+<img alt="Español" width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/62569522-2c0d-4b91-b490-bf7ec4b832e1" />
+<img alt="Português" width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/1252325d-78aa-4a56-b0fe-62c6d8b6975c" />
+<img alt="English" width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/63e2318b-bcf9-4006-bbbd-24635638c450" />
 </p>
 
 <!--Apresentação-->
@@ -25,15 +25,15 @@ Ainda estou pavimentando meu caminho como profissional, mas trago a energia de q
 **💬 You can contact me here:**
 </p></b>  
 <p align="center">
-<a href="https://www.linkedin.com/in/jjlemus23/"><img width="45" height="300" alt="image" src="https://github.com/user-attachments/assets/aa5b3dea-d48d-48b5-bca8-517d6095c1ba"/></a>
-<a href="https://www.reddit.com/user/Wasaby23/"><img width="45" height="300" alt="image" src="https://github.com/user-attachments/assets/3f921106-b6a6-4927-8c0c-f549987eba7d" /></a>
-<a href="https://www.instagram.com/jjlemus23/"><img width="45" height="300" alt="image" src="https://github.com/user-attachments/assets/a64d416f-3d56-4fda-84b5-50a72aa264cd"/></a>
-<a href="https://mastodon.social/@jjlemus23"><img width="45" height="300" alt="image" src="https://github.com/user-attachments/assets/8ab31bab-63d6-4319-baf8-76df3158fadd" /></a>
+<a href="https://www.linkedin.com/in/jjlemus23/"><img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/aa5b3dea-d48d-48b5-bca8-517d6095c1ba"/></a>
+<a href="https://www.reddit.com/user/Wasaby23/"><img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/3f921106-b6a6-4927-8c0c-f549987eba7d" /></a>
+<a href="https://www.instagram.com/jjlemus23/"><img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/a64d416f-3d56-4fda-84b5-50a72aa264cd"/></a>
+<a href="https://mastodon.social/@jjlemus23"><img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/8ab31bab-63d6-4319-baf8-76df3158fadd" /></a>
 </p>
 <b><p align="center">
 Backup:
 </p></b>
 <p align="center">
-<a href="https://gitlab.com/jjlemus23"><img width="45" height="300" alt="image" src="https://github.com/user-attachments/assets/7478dd6b-de78-4910-b518-114ff9a3d7da" /></a></p>
+<a href="https://gitlab.com/jjlemus23"><img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/7478dd6b-de78-4910-b518-114ff9a3d7da" /></a></p>
 
 
